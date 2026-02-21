@@ -83,8 +83,6 @@ export default function Home() {
                     name: "X Referral Contest",
                     url: "https://referral-contest.vercel.app",
                   }}
-                  theme="dark"
-                  modalSize="wide"
                 />
               </div>
             </div>
